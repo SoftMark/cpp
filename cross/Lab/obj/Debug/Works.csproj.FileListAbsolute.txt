@@ -1,0 +1,8 @@
+C:\Users\Gratky\Desktop\Univer M\Кросплатформерне програмування\Lab\obj\Debug\Works.csproj.AssemblyReference.cache
+C:\Users\Gratky\Desktop\Univer M\Кросплатформерне програмування\Lab\obj\Debug\Works.csproj.CoreCompileInputs.cache
+C:\Users\Gratky\Desktop\Univer M\Кросплатформерне програмування\Lab\obj\Debug\Lab.exe
+C:\Users\Gratky\Desktop\Univer M\Кросплатформерне програмування\Lab\obj\Debug\Lab.pdb
+C:\Users\Gratky\Desktop\Univer M\Кросплатформерне програмування\Lab\bin\Debug\Lab.exe.config
+C:\Users\Gratky\Desktop\Univer M\Кросплатформерне програмування\Lab\bin\Debug\Lab.exe
+C:\Users\Gratky\Desktop\Univer M\Кросплатформерне програмування\Lab\bin\Debug\Lab.pdb
+C:\Users\Gratky\Desktop\Univer M\Кросплатформерне програмування\Lab\obj\Debug\Works.csproj.SuggestedBindingRedirects.cache

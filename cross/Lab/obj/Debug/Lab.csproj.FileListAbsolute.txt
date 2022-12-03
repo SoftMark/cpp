@@ -1,0 +1,7 @@
+C:\Users\Gratky\Desktop\Univer\Кросплатформерне програмування\Lab\bin\Debug\Lab.exe.config
+C:\Users\Gratky\Desktop\Univer\Кросплатформерне програмування\Lab\bin\Debug\Lab.exe
+C:\Users\Gratky\Desktop\Univer\Кросплатформерне програмування\Lab\bin\Debug\Lab.pdb
+C:\Users\Gratky\Desktop\Univer\Кросплатформерне програмування\Lab\obj\Debug\Lab.csproj.AssemblyReference.cache
+C:\Users\Gratky\Desktop\Univer\Кросплатформерне програмування\Lab\obj\Debug\Lab.csproj.CoreCompileInputs.cache
+C:\Users\Gratky\Desktop\Univer\Кросплатформерне програмування\Lab\obj\Debug\Lab.exe
+C:\Users\Gratky\Desktop\Univer\Кросплатформерне програмування\Lab\obj\Debug\Lab.pdb

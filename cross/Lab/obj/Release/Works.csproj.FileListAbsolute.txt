@@ -1,0 +1,6 @@
+C:\Users\Gratky\Desktop\Univer M\Кросплатформерне програмування\Lab\bin\Release\Lab.exe.config
+C:\Users\Gratky\Desktop\Univer M\Кросплатформерне програмування\Lab\bin\Release\Lab.exe
+C:\Users\Gratky\Desktop\Univer M\Кросплатформерне програмування\Lab\bin\Release\Lab.pdb
+C:\Users\Gratky\Desktop\Univer M\Кросплатформерне програмування\Lab\obj\Release\Works.csproj.CoreCompileInputs.cache
+C:\Users\Gratky\Desktop\Univer M\Кросплатформерне програмування\Lab\obj\Release\Lab.exe
+C:\Users\Gratky\Desktop\Univer M\Кросплатформерне програмування\Lab\obj\Release\Lab.pdb
